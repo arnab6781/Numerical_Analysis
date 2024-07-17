@@ -1,3 +1,9 @@
+/*
+    Newton's Forward Interpolation and Backward Interpolation
+
+*/
+
+
 #include <stdio.h>
 
 int r, c;
