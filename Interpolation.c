@@ -1,8 +1,7 @@
 /*
-    Newton's Forward Interpolation and Backward Interpolation
+    Newton's Forward Interpolation and Backward Interpolation.
 
 */
-
 
 #include <stdio.h>
 
